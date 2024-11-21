@@ -1,0 +1,19 @@
+body, p, h1, h2, h3, h4, h5 {
+  margin: 0;
+}
+
+
+
+button {
+  width: 200px;
+}
+
+.btn-secondary {
+  background-color: pink;
+}
+
+#navbarSupportedContent {
+  display: flex;
+  justify-content: flex-end;
+}
+
